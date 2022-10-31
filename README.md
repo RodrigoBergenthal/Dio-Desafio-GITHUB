@@ -1,5 +1,5 @@
 # Repositorio do Desafio de Projeto sobre-Git-GitHub
-Dio-Desafio - Primeiro Projeto Git/GitHub
+Repositorio criado para o desafio de Projeto.
 
 
 
