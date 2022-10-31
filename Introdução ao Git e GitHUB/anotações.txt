@@ -1,0 +1,34 @@
+Link para dowload do Git:
+https://git-scm.com/downloads
+
+-
+"o Git bash e um terminal extendido para otimizar o uso do Git."
+
+Anotações do Curso Git/GitHub Dio:
+
+##Comandos Windows Terminal
+
+- CLS: LIMPAR
+- CD: ENTRAR
+- CD..: VOLTAR
+- CD /: VOLTAR ORIGEM
+- TAB: COMPLETAR
+- MKDIR: CRIAR PASTA (DIRETORIO)
+- ECHO: MOSTRAR COMANDO - RETORNO
+- DEL: DELETAR
+- RMDIR: DELETA REPOSITORIO
+- LS-a : LISTAR OCULTO
+- MV: MOVER
+
+###Comandos terminal GIT
+
+- GIT INIT
+- GIT ADD   --- -GIT ADD . (ADICIONA TODOS)
+-GIT COMMIT
+-GIT STATUS
+-GIT REMOT ADD ORIGIN
+-GIT PUSH ORIGIN MASTER
+
+- EXEMPLO DE COMANDO PARA COMMIT
+
+- GIT COMMIT -m "Exemplo de descrição"
